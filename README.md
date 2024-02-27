@@ -5,12 +5,21 @@ It includes tools and processes that encourage collaboration between developers,
 Tools Used:
 
 Jenkins
+
 Vault
+
 Maven
+
 JUnit
+
 sonarqube
+
 docker
+
 trivy
+
 Google Cloud Storage
+
 dockerhub
+
 Team
